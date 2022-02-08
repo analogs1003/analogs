@@ -4,7 +4,7 @@
 $ python3 sample010.py > tmp.txt
 ```
 
-## 100Mbps のファイルの作成方法
+## 100Mbps のログファイルの作成方法
 
 ```
 $ for ii in `seq 0 4`; do echo $ii; (python3 sample010.py > tmp$ii.txt &); done
