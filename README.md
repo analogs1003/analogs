@@ -5,5 +5,5 @@ Splunkに近い機能を実装してみたいと思います。
 https://github.com/analogs1003/analogs/issues
 
 ## samples
-issue番号に対応するコードをsamplesに作成
+issue番号に対応するコードをsamplesに作成  
 https://github.com/analogs1003/analogs/tree/main/samples
