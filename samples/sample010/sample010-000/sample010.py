@@ -40,7 +40,7 @@ def main(log_size_per_sec, word_size_per_sentence, char_size_per_word):
         log = create_log(word_size_per_sentence, char_size_per_word)
         print(log)
         # sleep
-#        time.sleep(sleep_log(log_size_per_sec))
+        time.sleep(sleep_log(log_size_per_sec))
 
 LOG_SIZE_PER_SEC = 100
 WORD_SIZE_PER_SENTENCE = 100
